@@ -10,3 +10,9 @@ streamlit_pandas_profiling==0.1.3
 ydata_profiling==4.16.1
 ~treamlit==1.44.1
 click<=8.0.4
+
+$ poetry install
+(...)
+Installing dependencies from lock file
+(...)
+/path/to/some-project/some_project does not contain any element
